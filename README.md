@@ -46,7 +46,7 @@ git clone [https://github.com/seu-usuario/PyBankQuery.git](https://github.com/se
 cd PyBankQuery
 ```
 
-*2.Crie e ative o ambiente virtual (**venv**)*:
+*2. Crie e ative o ambiente virtual (**venv**)*:
 
 * **Linux/macOS**:
 
@@ -62,13 +62,13 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-*3.Instale as dependências (se houver um arquivo **requirements.txt**)*:
+*3. Instale as dependências (se houver um arquivo **requirements.txt**)*:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-*4.Execute a aplicação*:
+*4. Execute a aplicação*:
 
 ```bash
 python main.py
